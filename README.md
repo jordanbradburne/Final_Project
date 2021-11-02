@@ -5,10 +5,10 @@ Communication Protocol: Individual project
 ## Selected topic: 
 * Modeling human activity from smartphone data
 
-## Reason why they selected their topic: 
+## Reason why I selected my topic: 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
 
-## Description of their source of data:
+## Description of my source of data:
 
 - Recordings of 30 study participants performing activities of daily living
 - dataset is randomly broken into 2 sets. 70% of the volunteers were selected for generating the training data and 30% for the test data.
