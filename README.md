@@ -1,5 +1,7 @@
 # Final_Project
 
+Communication Protocol: Individual project
+
 ✓ Selected topic: Modeling human activity from smartphone data
 
 ✓ Reason why they selected their topic: The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
