@@ -8,6 +8,10 @@ Communication Protocol: Individual project
 ## Reason why I selected my topic: 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
 
+## Dataset Source:
+- NOTE: Only a pre-cleaned/pre-processed version of the dataset was available.
+- https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+
 ## Description of my source of data:
 
 - Recordings of 30 study participants performing activities of daily living
