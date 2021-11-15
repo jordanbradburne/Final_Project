@@ -5,6 +5,9 @@ Communication Protocol: Individual project
 ## Selected topic: 
 * Modeling human activity from smartphone data
 
+### Link to google presentation can be found below:
+https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit#slide=id.g101c25a8ac1_0_48
+
 ## Reason why I selected my topic: 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
 
@@ -27,7 +30,6 @@ Communication Protocol: Individual project
 - Whether or not you can predict what specific physical activities one is performing:
   - Can you differentiate between walking on a flat surface, walking up stairs and/or down stairs?
   - Is it possible to determine the difference between sitting, standing and laying? If so, how are these differentiated?
-
 
 ✓ Outline
 
