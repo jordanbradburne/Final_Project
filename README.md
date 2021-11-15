@@ -44,9 +44,9 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * next load the data file containing the output class
   
   * Results
-  * loaded the train and test datasets
-  * test dataset has 2,947 rows of window data.
-  * the size of windows in the train and test sets match and the size of the output (y) in each the train and test case matches the number of samples
+    * loaded the train and test datasets
+    * test dataset has 2,947 rows of window data.
+    * the size of windows in the train and test sets match and the size of the output (y) in each the train and test case matches the number of samples
 
 2. Balance of Activity Classes
   * good first check of data is to investigate the balance of each activity.
@@ -66,6 +66,8 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * an import check: create a line plot of the raw data.
   * The raw data is comprised of windows of time series data per variable, and the windows do have a 50% overlap.
   * may see repetition in the observations as a line plot unless the overlap is removed.
+
+<img width="490" alt="Screen Shot 2021-11-15 at 12 01 54 AM" src="https://user-images.githubusercontent.com/85847344/141744111-6cc85a2e-1992-449b-b458-d510903bb2dc.png">
 
   * First
     * Retrieve all of the rows for a single subject
@@ -94,6 +96,8 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * check for similarity of behavior across subjects by plotting and comparing the histograms of movement data across subjects.
   * create one plot per subject and plot all three axis of a given data, then repeat this for multiple subjects.
 
+<img width="314" alt="Screen Shot 2021-11-15 at 12 02 43 AM" src="https://user-images.githubusercontent.com/85847344/141744228-48502aae-dc68-46ff-babc-719797d40beb.png">
+
   * Results
     * some of the distributions align (e.g. main groups in the middle around 0.0), so there may be some continuity of movement data across subjects
     * strong consistency across subjects could later help for the modeling
@@ -106,6 +110,8 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * create a histogram plot per activity, with the three axis of a given data type on each plot.
   * expect to see differences in the distributions across activities down the plots.
   
+  <img width="315" alt="Screen Shot 2021-11-15 at 12 03 19 AM" src="https://user-images.githubusercontent.com/85847344/141744313-6978bb4e-5039-4cbc-be4c-878c71be2eb5.png">
+
   * Results
     * each activity has a different data distribution, with a marked difference between the large movement (first three activities) with the stationary activities (last three activities).
     * Data distributions for the first three activities look Gaussian
@@ -121,6 +127,10 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * confirm this by calculating how long (in samples or rows) each subject spends on each activity
   * look at distribution of durations for each activity.
   * summarize the distributions as boxplots: create a boxplot per activity of the duration measurements.
+
+<img width="296" alt="Screen Shot 2021-11-15 at 12 03 53 AM" src="https://user-images.githubusercontent.com/85847344/141744370-31e4a8dc-223d-4dc3-b2e0-8e14505ee4b5.png">
+
+<img width="298" alt="Screen Shot 2021-11-15 at 12 04 52 AM" src="https://user-images.githubusercontent.com/85847344/141744471-74d9e028-8948-4970-9511-76a0560ec082.png">
 
   * Results
     * Shows a similar relationship between activities.
