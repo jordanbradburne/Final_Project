@@ -8,6 +8,9 @@ Communication Protocol: Individual project
 ### Link to google presentation can be found below:
 https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit?usp=sharing
 
+### Link to Outline of Dashboard:
+https://docs.google.com/presentation/d/1Zd3sqP9JfdyD5-TyiXzo514swSHfqyXL1HokYcYll-M/edit?usp=sharing
+
 ## Reason why I selected my topic: 
 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
