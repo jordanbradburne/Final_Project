@@ -6,7 +6,7 @@ Communication Protocol: Individual project
 * Modeling human activity from smartphone data
 
 ### Link to google presentation can be found below:
-https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit#slide=id.g101c25a8ac1_0_48
+https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit?usp=sharing
 
 ## Reason why I selected my topic: 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
