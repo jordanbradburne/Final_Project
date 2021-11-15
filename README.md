@@ -9,7 +9,9 @@ Communication Protocol: Individual project
 https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit?usp=sharing
 
 ## Reason why I selected my topic: 
+
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
+* The reason in choosing this topic is to want to know whether or not you can predict human activity from wearable sensor data such as a fitbit.
 
 ## Dataset Source:
 - NOTE: Only a pre-cleaned/pre-processed version of the dataset was available.
@@ -135,6 +137,17 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   * Results
     * Shows a similar relationship between activities.
     * suggests that the test and training dataset are reasonably representative of the whole dataset.
+
+2. Balance of Activity Classes
+  A good first check of the data is to investigate the balance of each activity.
+3. Plot Time Series Data for One Subject
+  time series data,  an import check is to create a line plot of the raw data.
+4. Plot Histograms Per Subject
+  There must be regularity in the movement data across subjects. The data has been scaled between -1 and 1, presumably per subject, so the amplitude of the subjects’ detected movements will be similar.
+6. Plot Histograms Per Activity
+  interested in discriminating between activities based on activity data.
+7. Plot Activity Duration Boxplots
+  A final area to consider is how long a subject spends on each activity.
 
 ## Description of the analysis phase of the project
 * For the analysis phase, I utilized a confusion matrix to look at the performance of my SVM model.
