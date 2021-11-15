@@ -31,6 +31,21 @@ https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-
   - Can you differentiate between walking on a flat surface, walking up stairs and/or down stairs?
   - Is it possible to determine the difference between sitting, standing and laying? If so, how are these differentiated?
 
-✓ Outline
+## Description of the data exploration phase of the project
+1. Load Data
+2. Balance of Activity Classes
+  A good first check of the data is to investigate the balance of each activity.
+3. Plot Time Series Data for One Subject
+  time series data,  an import check is to create a line plot of the raw data.
+4. Plot Histograms Per Subject
+  There must be regularity in the movement data across subjects. The data has been scaled between -1 and 1, presumably per subject, so the amplitude of the subjects’ detected movements will be similar.
+6. Plot Histograms Per Activity
+  interested in discriminating between activities based on activity data.
+7. Plot Activity Duration Boxplots
+  A final area to consider is how long a subject spends on each activity.
 
-✓ Technologies
+
+## Description of the analysis phase of the project
+* For the analysis phase, I utilized a confusion matrix to look at the performance of my SVM model.
+* As indicated in the confusion matrix, the model was able to predict when a subject was laying with 100% accuracy (i.e. a probability of 1.00).
+* The least accurate prediction was for sitting (90% i.e. 0.90).
