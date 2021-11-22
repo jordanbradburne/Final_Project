@@ -3,11 +3,9 @@
 ## Selected topic: 
 * Modeling human activity from smartphone data
 
-### Link to google presentation can be found below:
-https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit?usp=sharing
+### [Link to Google Presentation](https://docs.google.com/presentation/d/1tUjPQUAhGOVnQN3aab45WwdwhtgZQFT5DuT2ti0-Qps/edit?usp=sharing)
 
-### Link to Outline of Dashboard:
-https://docs.google.com/presentation/d/1Zd3sqP9JfdyD5-TyiXzo514swSHfqyXL1HokYcYll-M/edit?usp=sharing
+### [Link to dashboard](https://public.tableau.com/app/profile/jordan.bradburne/viz/PredictingActivitywithSmartphone/Story1)
 
 ## Reason why I selected my topic: 
 
