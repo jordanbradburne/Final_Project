@@ -156,10 +156,10 @@ https://docs.google.com/presentation/d/1Zd3sqP9JfdyD5-TyiXzo514swSHfqyXL1HokYcYl
 * The least accurate prediction was for sitting (90% i.e. 0.90).
 
 ## Machine Learning Portion
-### Description of preliminary data preprocessing
+### Description of data preprocessing
 * The available dataset was already pre-cleaned but still analyzed to make sure quality data was being used. (Reference "Description of the data exploration phase of the project")
 
-### Description of preliminary feature engineering and preliminary feature selection, including decision-making process
+### Description of feature engineering and feature selection, including decision-making process
 * Preliminary feature engineering examined 6 different features: sitting, standing, laying, walking, walking up stairs and walking down stairs. These features were selected based on the activities that were recorded by the wearable and associated with that specific activity.
 
 ### Description of how data was split into training and testing sets
@@ -170,3 +170,16 @@ https://docs.google.com/presentation/d/1Zd3sqP9JfdyD5-TyiXzo514swSHfqyXL1HokYcYl
 * Support Vector Machine (SVM) was chosen because it is a good place to start when someone is not sure of the data. The advantages for this dataset also outweigh the disadvantages which was a large part in the choice of this model.
 * Advantages: Works well when there is a good margin between classes, computationally efficient.
 * Disadvantages: Doesn't work well with a lot of noise (i.e. when target classes overlap), or with large data sets.
+
+### Explanation of changes in model choice 
+* (if changes occurred between the Segment 2 and Segment 3 deliverables)
+* N/A
+* No changes made between segements 2 and 3
+
+### Description of how the model has been trained thus far
+* The data set was split 70% training and 30% testing based on Activity 
+* No additional changes have been made in the training and testing strategy since Segment #2
+
+### Description of current accuracy score
+* Accuracy Score: 0.96 avg i.e. 96% accuracy on average.
+<img width="503" alt="Screen Shot 2021-11-21 at 9 00 14 PM" src="https://user-images.githubusercontent.com/85847344/142803497-e08c75b2-0216-4f1f-97e8-2af7fa6e39e9.png">
