@@ -1,7 +1,5 @@
 # Final_Project
 
-Communication Protocol: Individual project
-
 ## Selected topic: 
 * Modeling human activity from smartphone data
 
