@@ -178,6 +178,15 @@
 * The data set was split 70% training and 30% testing based on Activity 
 * No additional changes have been made in the training and testing strategy since Segment #2
 
-### Description of current accuracy score
-* Accuracy Score: 0.96 avg i.e. 96% accuracy on average.
+### Description and explanation of model’s confusion matrix, including final accuracy score
+
+#### Confusion Matrix:
+<img width="368" alt="Screen Shot 2021-11-24 at 10 14 49 PM" src="https://user-images.githubusercontent.com/85847344/143389443-7dc7ebe3-4253-4f22-99d5-672d5ca39f22.png">
+* indicated in the confusion matrix, the model was able to predict when a subject was laying with 100% accuracy (i.e. a probability of 1.00).
+* The least accurate prediction was for sitting (90% i.e. 0.90).
+
 <img width="503" alt="Screen Shot 2021-11-21 at 9 00 14 PM" src="https://user-images.githubusercontent.com/85847344/142803497-e08c75b2-0216-4f1f-97e8-2af7fa6e39e9.png">
+* Accuracy Score: 0.96 avg i.e. 96% accuracy on average.
+
+
+
