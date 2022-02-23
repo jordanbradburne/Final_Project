@@ -10,7 +10,6 @@
 ## Reason why I selected my topic: 
 
 * The reason in choosing this topic is to want to know whether or not you can predict human activity from wearble sensor data such as a fitbit.
-* The reason in choosing this topic is to want to know whether or not you can predict human activity from wearable sensor data such as a fitbit.
 
 ## Dataset Source:
 - NOTE: Only a pre-cleaned/pre-processed version of the dataset was available.
